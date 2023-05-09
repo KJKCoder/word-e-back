@@ -1,3 +1,0 @@
-https://visionhong.tistory.com/25
-https://paperswithcode.com/sota/image-classification-on-imagenet\
-https://github.com/ml-favorfit-develop/Favorfit_bg_remove/blob/main/train.py

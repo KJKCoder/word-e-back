@@ -1,0 +1,16 @@
+https://cocojuan.tistory.com/489
+imagga
+writer
+dupli checker
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/stability-AI/stableLM/
+https://dallery.gallery/the-dalle-2-prompt-book/
+https://lexica.art/
+https://github.com/dair-ai/Prompt-Engineering-Guide#lecture
+
+stable diffusion
+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
+
+openai
+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

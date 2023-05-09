@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-jd#l=xhp&kv51eu=kyj#xe%^k-z*e3&n)fct48gy^^c2$9#0rb"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["https://web-word-e-front-5llo2alhg6lxfy.sel4.cloudtype.app/"]
 
 
 # Application definition
@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'word-e-db',
         'USER': 'root',
         'PASSWORD': '1111',
-        'HOST': '127.0.0.1',
+        'HOST': 'https://web-word-e-front-5llo2alhg6lxfy.sel4.cloudtype.app/',
         'PORT': '3306',
     }
 }

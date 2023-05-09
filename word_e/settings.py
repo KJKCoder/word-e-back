@@ -86,8 +86,8 @@ DATABASES = {
         'NAME': 'word-e-db',
         'USER': 'root',
         'PASSWORD': '1111',
-        'HOST': 'svc.sel4.cloudtype.app:32576/',
-        'PORT': '3306',
+        'HOST': 'svc.sel4.cloudtype.app',
+        'PORT': '30752',
     }
 }
 
